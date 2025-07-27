@@ -1,4 +1,4 @@
-# PIT-Ajjay
+# Secure Authentication System using Node.js and Express.js
 Developed a secure authentication system using Node.js and Express, focusing on user signup and login with JWT for secure authentication.
 
 Developed a secure authentication system using Node.js and Express. This involved setting up user signup and login functionality, using JSON Web Tokens (JWT) for secure authentication. The system included creating endpoints for user registration and login, ensuring that user credentials were securely hashed, and managing user sessions with JWT. I also verified the functionality of the system using Postman and attached screenshots to demonstrate the proper operation and security of the APIs.
